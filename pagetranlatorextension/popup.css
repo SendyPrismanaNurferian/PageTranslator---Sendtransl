@@ -1,0 +1,91 @@
+/* Reset Margin and Padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+}
+
+/* Body Styling */
+body {
+    background-color: #f5f5f5;
+    padding: 20px;
+    width: 250px;
+    text-align: center;
+}
+
+/* Title Styling */
+h1 {
+    font-size: 20px;
+    margin-bottom: 15px;
+    color: #333;
+    border-bottom: 2px solid #e69e0f;
+    padding-bottom: 10px;
+}
+
+/* Label Styling */
+label {
+    display: block;
+    font-size: 14px;
+    margin-top: 15px;
+    color: #555;
+    text-align: left;
+}
+
+/* Select Dropdown Styling */
+select {
+    margin-top: 8px;
+    width: 100%;
+    padding: 8px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #fff;
+    color: #333;
+    cursor: pointer;
+}
+
+/* Button Styling */
+button {
+    margin-top: 20px;
+    padding: 10px 15px;
+    background-color: #430afd;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #ef9f0a;
+}
+
+/* Additional Hover Effects */
+button:focus, select:focus {
+    outline: none;
+    box-shadow: 0 0 5px #4caf50;
+}
+
+/* Responsive Design for Smaller Devices */
+@media (max-width: 300px) {
+    body {
+        padding: 15px;
+        width: 100%;
+    }
+    
+    h1 {
+        font-size: 18px;
+    }
+
+    button {
+        padding: 8px 12px;
+        font-size: 13px;
+    }
+
+    select {
+        padding: 6px;
+        font-size: 13px;
+    }
+}
