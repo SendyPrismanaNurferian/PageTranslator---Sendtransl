@@ -80,7 +80,7 @@ Proyek ini dilisensikan di bawah lisensi MIT.
 
 ## Tangkapan Layar
 
-![Popup UI]([image.png](https://github.com/SendyPrismanaNurferian/PageTranslator---Sendtransl/blob/main/pagetranlatorextension/image.png))
+![image.png](https://github.com/SendyPrismanaNurferian/PageTranslator---Sendtransl/blob/main/pagetranlatorextension/image.png))
 ```
 
 ## Catatan Tambahan
