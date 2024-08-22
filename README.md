@@ -78,11 +78,6 @@ Kontribusi untuk proyek ini sangat dihargai. Jika Anda menemukan bug atau memili
 
 Proyek ini dilisensikan di bawah lisensi MIT.
 
-## Tangkapan Layar (Optional)
-
-Jika Anda ingin menambahkan tangkapan layar UI dari ekstensi ini, Anda bisa menambahkan bagian ini:
-
-```markdown
 ## Tangkapan Layar
 
 ![Popup UI](image.png)
